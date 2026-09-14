@@ -66,7 +66,7 @@ Please open an **[Issue](https://github.com/codebloomir-dev/Snapix/issues)** —
 
 ## 📄 License
 
-This project is licensed under the terms specified in the repository.
+This project is licensed under the **MIT License**.
 
 ---
 
