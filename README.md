@@ -6,6 +6,25 @@ Snapix is a powerful and lightweight photo editing application developed by **Co
 
 ---
 
+## 🌐 Official Website
+
+Want to explore Snapix features in more detail?  
+Visit our official website for a full overview, screenshots, and the latest updates.
+
+<p align="center">
+  <a href="https://codebloomir-dev.github.io/Snapix/" target="_blank" rel="noopener">
+    <img src="https://img.shields.io/badge/🌐_Visit_Official_Website-7C5CFF?style=for-the-badge&logoColor=white&labelColor=5B3FD9" alt="Visit Official Website" height="42">
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://codebloomir-dev.github.io/Snapix/" target="_blank" rel="noopener" style="display:inline-block;padding:14px 28px;background:linear-gradient(135deg,#7c5cff,#ff5cad);color:#fff;font-weight:700;border-radius:12px;text-decoration:none;box-shadow:0 8px 22px rgba(124,92,255,0.35);">
+    🚀 Open Snapix Website
+  </a>
+</p>
+
+---
+
 ## ✨ Features
 
 - 🎨 **Professional-grade editing tools** — fine-tune every detail of your photos
