@@ -13,16 +13,17 @@ Snapix is a powerful and lightweight photo editing application developed by **Co
 - 🖼️ **High-quality output** — export your edits in full resolution
 - 🌙 **Modern UI** — clean, intuitive, and easy to use
 - 📱 **Wide compatibility** — supports Android 10, 11, 12, 13, 14, 15, and 16
+- 🌐 **Multi-Language** — available in multiple languages for users around the world
 
 ---
 
 ## 📥 Download
 
-You can download the **latest version** of Snapix directly from this repository:
+You can download the **latest version** of Snapix from the official Releases page:
 
 👉 **[Download Latest Release](https://github.com/codebloomir-dev/Snapix/releases/latest)**
 
-Simply download the latest APK from the **Releases** section and install it on your Android device.
+Simply download the latest APK and install it on your Android device.
 
 > **Note:** Make sure to enable *"Install from unknown sources"* in your device settings before installing the APK.
 
@@ -30,7 +31,7 @@ Simply download the latest APK from the **Releases** section and install it on y
 
 ## 🛠️ Installation
 
-1. Open the **[Releases](https://github.com/codebloomir-dev/Snapix/releases)** page of this repository.
+1. Open the **Releases** page.
 2. Download the latest `.apk` file.
 3. On your Android device, allow installation from unknown sources if prompted.
 4. Open the downloaded APK and install it.
@@ -66,7 +67,16 @@ Please open an **[Issue](https://github.com/codebloomir-dev/Snapix/issues)** —
 
 ## 📄 License
 
-This project is licensed under the **MIT License**.
+This project is **source-available** and licensed under the **PolyForm Noncommercial License 1.0.0**.
+
+- ✅ **Free** for personal, educational, and non-commercial use
+- ❌ **Commercial use** requires a separate license
+
+See the [LICENSE](LICENSE) file for full terms.
+
+For commercial licensing inquiries, please contact **CodeBloom** via GitHub.
+
+> This software is **source-available**, but is **NOT open source software**.
 
 ---
 
